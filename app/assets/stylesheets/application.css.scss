@@ -19,7 +19,7 @@
  @import "bootstrap";
 
 
-  .bg { background-image:  image-url("rose.jpg"); min-height: 100%;
+  .bg { background-image:  image-url("rose.jpg"); min-height: 1024px;
   min-width: 1024px;
 
   /* Set up proportionate scaling */
@@ -49,4 +49,8 @@
     width: 215px;
     height: 200px;
     border: 2px solid black;
+  }
+
+  .table {
+    background-color: white;
   }
