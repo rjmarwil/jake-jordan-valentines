@@ -27,6 +27,26 @@
   height: auto;
 
   /* Set up positioning */
-  position: fixed;
+
   top: 0;
   left: 0;}
+
+  .jumbotron {
+
+     background: rgba(200, 54, 54, 0.5);
+  }
+
+  .roundy {
+    border-radius: 55px 55px 55px 55px;
+    overflow: hidden;
+    }
+
+  .border {
+    border: 2px solid black;
+  }
+
+  .imagein {
+    width: 215px;
+    height: 200px;
+    border: 2px solid black;
+  }
